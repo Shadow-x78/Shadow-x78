@@ -53,7 +53,6 @@
 **Database**
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="48" height="48"/>
 </p>
 
 **Tools**
