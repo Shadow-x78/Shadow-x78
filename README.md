@@ -19,6 +19,7 @@
 - 🔥 **Full-Stack Development** - React, Next.js, Express, PHP
 - 📞 **IVR Scripts** - UCCX platform development
 - 📱 **Mobile Apps** - Flutter cross-platform solutions
+- 🔌 **API Development** - RESTful APIs & Integration
 - 🤖 **Automation** - Business process optimization
 - 💾 **Database Design** - MySQL, MongoDB solutions
 - ⚡ **Always learning** new technologies
@@ -57,13 +58,14 @@
 
 **Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
 </p>
 
 **Specializations**
 <p>
 <img src="https://img.shields.io/badge/Cisco%20UCCX-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/IVR%20Scripts-FF6B6B?style=for-the-badge&logo=phonepe&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Development-00D9FF?style=for-the-badge&logo=swagger&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation-45B7D1?style=for-the-badge&logo=robotframework&logoColor=white" />
 </p>
 
@@ -96,7 +98,7 @@
 
 **🎯 Specialties:**
 - Frontend Architecture
-- API Development  
+- API Integration
 - Database Design
 - Performance Optimization
 
@@ -122,7 +124,7 @@
 **🎯 Specialties:**
 - Cross-Platform Apps
 - State Management
-- Native Integration
+- API Integration
 - UI/UX Implementation
 
 </div>
@@ -130,7 +132,31 @@
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" colspan="2">
+<td align="center" valign="top" width="50%">
+
+<div style="background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%); padding: 30px; border-radius: 20px; margin: 10px;">
+
+### 🔌 **API Development**
+*RESTful Solutions & Integration*
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/RESTful%20API-25D366?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+**🎯 Specialties:**
+- RESTful API Design
+- API Documentation
+- Data Integration
+- Authentication & Security
+
+</div>
+
+</td>
+<td align="center" valign="top" width="50%">
 
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 20px; margin: 10px;">
 
@@ -145,7 +171,11 @@
 <img src="https://img.shields.io/badge/IVR_Scripts-FF6B6B?style=flat-square&logo=phonepe&logoColor=white" />
 </p>
 
-**🎯 Specialties:** IVR Development • Call Flow Design • Platform Integration • Process Automation
+**🎯 Specialties:**
+- IVR Development
+- Call Flow Design
+- Platform Integration
+- Process Automation
 
 </div>
 
@@ -200,7 +230,7 @@
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](<https://discord.com/users/576070910638030889>) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/576070910638030889) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadow.xox78@gmail.com)
 
 </div>
