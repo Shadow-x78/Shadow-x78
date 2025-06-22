@@ -31,7 +31,7 @@
 
 **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
 </p>
 
 **Backend**
@@ -75,26 +75,91 @@
 
 <div align="center">
 
-| 🌐 **Web Development** | 📱 **Mobile Development** | 📞 **Telecommunications** |
-|:---:|:---:|:---:|
-| React & Next.js Frontend | Flutter Cross-Platform | IVR Script Development |
-| Express & PHP Backend | Dart Programming | UCCX Platform Integration |
-| Database Architecture | iOS & Android Apps | Call Flow Automation |
+<!-- First Row -->
+<table border="0" cellpadding="20" cellspacing="0">
+<tr>
+<td align="center" valign="top" width="50%">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 10px;">
+
+### 🌐 **Web Development**
+*Building Modern Web Solutions*
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+**🎯 Specialties:**
+- Frontend Architecture
+- API Development  
+- Database Design
+- Performance Optimization
 
 </div>
 
+</td>
+<td align="center" valign="top" width="50%">
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; margin: 10px;">
+
+### 📱 **Mobile Development**
+*Cross-Platform Excellence*
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
+<br>
+
+**🎯 Specialties:**
+- Cross-Platform Apps
+- State Management
+- Native Integration
+- UI/UX Implementation
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" colspan="2">
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 20px; margin: 10px;">
+
+### 📞 **Telecommunications & Automation**
+*IVR Scripts & Business Automation*
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Cisco_UCCX-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/IVR_Scripts-FF6B6B?style=flat-square&logo=phonepe&logoColor=white" />
+</p>
+
+**🎯 Specialties:** IVR Development • Call Flow Design • Platform Integration • Process Automation
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 <div align="center">
 
-```typescript
-const myExpertise = {
-  fullStack: ["React", "Next.js", "Express", "PHP"],
-  mobile: ["Flutter", "Dart"],
-  telecommunications: ["UCCX", "IVR Scripts", "Call Routing"],
-  automation: ["Python", "Process Optimization"],
-  databases: ["MySQL", "MongoDB", "JSON APIs"],
-  currentFocus: "Building scalable solutions & automating workflows"
-};
-```
+<img src="https://img.shields.io/badge/MISSION-Building%20Scalable%20Solutions%20&%20Automating%20Workflows-FF6B6B?style=for-the-badge&logo=target&logoColor=white&labelColor=58A6FF" />
 
 </div>
 
@@ -103,15 +168,30 @@ const myExpertise = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadow-x78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-x78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<table>
+<tr>
+<td align="center">
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Shadow-x78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Shadow-x78's%20GitHub%20Analytics"/>
+
+</td>
+<td align="center">
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-x78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow-x78&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FF7B72" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow-x78&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF&title_color=58A6FF&custom_title=Contribution%20Activity%20Graph" />
+
 </div>
 
 ---
@@ -120,9 +200,8 @@ const myExpertise = {
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shadow_x7) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shadow.xx78) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadowxx78@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](<https://discord.com/users/576070910638030889>) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadow.xox78@gmail.com)
 
 </div>
 
@@ -134,7 +213,7 @@ const myExpertise = {
   
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadowxx78) 
 
-*Support my open-source projects! 🙏*
+*Fuel innovation, support open-source* 💡
 
 </div>
 
@@ -142,7 +221,7 @@ const myExpertise = {
 
 <div align="center">
 
-### 🔥 *"Code. Automate. Innovate."* 🔥
+### </*Debugging Life, One Line at a Time*>
 
 </div>
 
