@@ -87,6 +87,7 @@
 *Building Modern Web Solutions*
 
 <br>
+<br>
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -94,6 +95,8 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
+
+<br>
 
 **🎯 Specialties:**
 - Frontend Architecture
@@ -111,6 +114,7 @@
 ### 📱 **Mobile Development**
 *Cross-Platform Excellence*
 
+<br>
 <br>
 
 <p>
@@ -139,12 +143,15 @@
 *RESTful Solutions & Integration*
 
 <br>
+<br>
 
 <p>
 <img src="https://img.shields.io/badge/RESTful%20API-25D366?style=flat-square&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
+
+<br>
 
 **🎯 Specialties:**
 - RESTful API Design
@@ -169,6 +176,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/IVR_Scripts-FF6B6B?style=flat-square&logo=phonepe&logoColor=white" />
 </p>
+
+<br>
 
 **🎯 Specialties:**
 - IVR Development
