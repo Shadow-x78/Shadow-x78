@@ -8,7 +8,7 @@
   
 ### 🎯 Full-Stack Engineer • 📞 IVR Developer • 🤖 Automation Expert
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;IVR+Developer;Automation+Expert;Always+Learning..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;IVR+Developer;Automation+Expert;Always+Learning..." alt="Typing SVG" style="max-width: 100%;" /></a>
 
 </div>
 
@@ -147,7 +147,9 @@ Hello! I am a Full-Stack Developer and IVR Specialist passionate about building 
 <br>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<img src="https://img.shields.io/badge/Cisco_UCCX-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/IVR_Scripts-FF6B6B?style=flat-square&logo=phonepe&logoColor=white" />
 </p>
 
 <br>
