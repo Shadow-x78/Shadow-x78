@@ -23,7 +23,7 @@
   </ul>
 </div>
 
-<div style="clear: both;"></div>
+<br/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 <h3 align="center">💼 Professional Focus</h3>
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse;">
+  <table width="100%">
     <tr>
       <td width="50%" align="center">
         <b>🌐 Web Development</b><br/>
