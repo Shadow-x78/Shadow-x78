@@ -28,10 +28,10 @@ I'm a Full-Stack Developer and the founder of **[RED SHADOWS | RS](https://githu
 I design and ship complete software products — from pixel to server — with a focus on clean architecture, real-world automation, and scalable systems that just work.
 
 - 🌐 **Web Development** — React, Next.js, Node.js, Express, PHP
-- 📱 **Mobile Apps** — Flutter & Dart for Android and iOS
+- 📱 **Mobile & Desktop** — Flutter & Dart for Android and iOS, Electron for cross-platform desktop
 - 🔌 **API & Integrations** — RESTful APIs, OAuth 2.0, third-party services
 - 🛒 **Shopify Ecosystem** — Custom apps, Theme Extensions, Polaris
-- 🤖 **Bots & Automation** — Telegram, Discord, WhatsApp bots & business workflows
+- 🤖 **Bots, AI & Automation** — Telegram, Discord, WhatsApp bots, business workflows, MCP (Model Context Protocol)
 - 📞 **Telecom & IVR** — Cisco UCCX call flow design & scripting
 - 🖥️ **DevOps** — Linux VPS, Docker, Nginx, server infrastructure
 - 🗄️ **Databases** — MySQL, MongoDB, PostgreSQL
@@ -58,9 +58,10 @@ I design and ship complete software products — from pixel to server — with a
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-#### Mobile
+#### Mobile & Desktop
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -80,6 +81,7 @@ I design and ship complete software products — from pixel to server — with a
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-CC0000?style=flat-square&logo=json&logoColor=white)
 
 ---
 
