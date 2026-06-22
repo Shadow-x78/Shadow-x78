@@ -1,257 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Shadow-x78&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20IVR%20Specialist&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a0000&height=200&section=header&text=Shadow-x78&fontSize=70&fontColor=CC0000&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Automation%20Architect%20%7C%20Founder%20of%20RED%20SHADOWS%20%7C%20RS&descAlignY=52&descSize=14&descColor=888888" width="100%"/>
 
 </div>
 
+<br/>
+
 <div align="center">
-  
-### 🎯 Full-Stack Engineer • 📞 IVR Developer • 🤖 Automation Expert
+
+[![RED SHADOWS | RS](https://img.shields.io/badge/RED%20SHADOWS%20%7C%20RS-CC0000?style=flat-square&logo=github&logoColor=white)](https://github.com/red-shadows-rs)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/576070910638030889)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-CC0000?style=flat-square&logo=maildotru&logoColor=white)](mailto:shadow-x7@red-shadows-rs.com)
+&nbsp;
+[![PayPal](https://img.shields.io/badge/Support-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/shadowxx78)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### About Me
 
-### 👨‍💻 About Me
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Shadow-x78&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&icon_color=CC0000&text_color=666666&ring_color=CC0000&custom_title=GitHub+Stats&count_private=true&include_all_commits=true"/>
 
-- 🔥 **Full-Stack Development** - React, Next.js, Express, PHP
-- 📞 **IVR Scripts** - UCCX platform development
-- 📱 **Mobile Apps** - Flutter cross-platform solutions
-- 🔌 **API Development** - RESTful APIs & Integration
-- 🤖 **Automation** - Business process optimization
-- 💾 **Database Design** - MySQL, MongoDB solutions
-- ⚡ **Always learning** new technologies
+I'm a Full-Stack Developer and the founder of **[RED SHADOWS | RS](https://github.com/red-shadows-rs)**.
+I design and ship complete software products — from pixel to server — with a focus on clean architecture, real-world automation, and scalable systems that just work.
 
-<br>
+- 🌐 **Web Development** — React, Next.js, Node.js, Express, PHP
+- 📱 **Mobile Apps** — Flutter & Dart for Android and iOS
+- 🔌 **API & Integrations** — RESTful APIs, OAuth 2.0, third-party services
+- 🛒 **Shopify Ecosystem** — Custom apps, Theme Extensions, Polaris
+- 🤖 **Bots & Automation** — Telegram, Discord, WhatsApp bots & business workflows
+- 📞 **Telecom & IVR** — Cisco UCCX call flow design & scripting
+- 🖥️ **DevOps** — Linux VPS, Docker, Nginx, server infrastructure
+- 🗄️ **Databases** — MySQL, MongoDB, PostgreSQL
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
-</p>
-
-**Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,express,java&theme=dark" />
-</p>
-
-**Mobile**
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-</p>
-
-**Automation**
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
-
-**Database**
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-**Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
-</p>
-
-**Specializations**
-<p>
-<img src="https://img.shields.io/badge/Cisco%20UCCX-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/IVR%20Scripts-FF6B6B?style=for-the-badge&logo=phonepe&logoColor=white" />
-<img src="https://img.shields.io/badge/API%20Development-00D9FF?style=for-the-badge&logo=swagger&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-45B7D1?style=for-the-badge&logo=robotframework&logoColor=white" />
-</p>
-
-</div>
+<br clear="right"/>
 
 ---
 
-### 💼 Professional Focus
+### Tech Stack
 
-<div align="center">
+#### Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black)
 
-<!-- First Row -->
-<table border="0" cellpadding="20" cellspacing="0">
-<tr>
-<td align="center" valign="top" width="50%">
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 10px;">
+#### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### 🌐 **Web Development**
-*Building Modern Web Solutions*
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<br>
-<br>
+#### DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-</p>
-
-<br>
-
-**🎯 Specialties:**
-- Frontend Architecture
-- API Integration
-- Database Design
-- Performance Optimization
-
-</div>
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; margin: 10px;">
-
-### 📱 **Mobile Development**
-*Cross-Platform Excellence*
-
-<br>
-<br>
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-</p>
-
-<br>
-
-**🎯 Specialties:**
-- Cross-Platform Apps
-- State Management
-- API Integration
-- UI/UX Implementation
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
-<div style="background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%); padding: 30px; border-radius: 20px; margin: 10px;">
-
-### 🔌 **API Development**
-*RESTful Solutions & Integration*
-
-<br>
-<br>
-
-<p>
-<img src="https://img.shields.io/badge/RESTful%20API-25D366?style=flat-square&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-<br>
-
-**🎯 Specialties:**
-- RESTful API Design
-- API Documentation
-- Data Integration
-- Authentication & Security
-
-</div>
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 20px; margin: 10px;">
-
-### 📞 **Telecommunications & Automation**
-*IVR Scripts & Business Automation*
-
-<br>
-
-<p>
-<img src="https://img.shields.io/badge/Cisco_UCCX-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/IVR_Scripts-FF6B6B?style=flat-square&logo=phonepe&logoColor=white" />
-</p>
-
-<br>
-
-**🎯 Specialties:**
-- IVR Development
-- Call Flow Design
-- Platform Integration
-- Process Automation
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MISSION-Building%20Scalable%20Solutions%20&%20Automating%20Workflows-FF6B6B?style=for-the-badge&logo=target&logoColor=white&labelColor=58A6FF" />
-
-</div>
+#### Specializations
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Cisco UCCX](https://img.shields.io/badge/Cisco_UCCX-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-CC0000?style=flat-square&logo=swagger&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=flat-square&logo=discord&logoColor=white)
+![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-x78&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&text_color=666666&custom_title=Most+Used+Languages&card_width=800"/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Shadow-x78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Shadow-x78's%20GitHub%20Analytics"/>
-
-</td>
-<td align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-x78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow-x78&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF&title_color=58A6FF&custom_title=Contribution%20Activity%20Graph" />
-
-</div>
-
----
-
-### 🌐 Connect
-
-<div align="center">
-  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/576070910638030889) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadow.xox78@gmail.com)
-
-</div>
-
----
-
-### 💖 Support
-
-<div align="center">
-  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadowxx78) 
-
-*Fuel innovation, support open-source* 💡
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow-x78&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=666666&line=CC0000&point=CC0000&area=true&area_color=1a0000&custom_title=Contribution+Activity"/>
 
 </div>
 
@@ -259,8 +97,8 @@
 
 <div align="center">
 
-### </*Debugging Life, One Line at a Time*>
+### `</ Build it right. Ship it clean. Let the work speak. >`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:0a0a0a&height=100&section=footer" width="100%"/>
