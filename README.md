@@ -4,8 +4,6 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 [![RED SHADOWS | RS](https://img.shields.io/badge/RED%20SHADOWS%20%7C%20RS-CC0000?style=flat-square&logo=github&logoColor=white)](https://github.com/red-shadows-rs)
